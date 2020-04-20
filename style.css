@@ -6,3 +6,13 @@ html {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 15px;
 }
+
+body {
+  background-image: url(images/cactus.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: center;
+}
